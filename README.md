@@ -13,17 +13,17 @@ Dead By Daylight Hacking Group：https://discord.gg/um8jGc2   (我们的Discord�
 >GetKeyToolsKernel2.0 已被检测到，过时，请不要使用! 请看下面最新方法
 >GetKeyToolsKernel2.0 Has been detected, outdated, please do not use! Please see the latest method below
 
-#New Update 2019/09/06 Get Key Method of Safe （新更新：获取KEY的安全方法）
+# New Update 2019/09/06 Get Key Method of Safe （新更新：获取KEY的安全方法）
 
-###Step1 （步骤1）
+### Step1 （步骤1）
 
 > you need bypass (你需要绕过EAC)
 
-###Step2 （步骤2）
+### Step2 （步骤2）
 
 > use `Cheat Engine` get the key (使用 `Cheat Engine` 获取KEY)
 
-###Notice (提醒)
+### Notice (提醒)
 
 >#####Suitable for all future versions (DBD3.1.2+) 适用于未来所有版本
 
@@ -45,15 +45,15 @@ else
 end
 result.destroy()
 ```
-##LUA script use / graphic tutorial（LUA脚本使用/图文教程）
+## LUA script use / graphic tutorial（LUA脚本使用/图文教程）
 
 <img src="s1.png">
 <img src="s2.png">
 <img src="s3.png">
 
-##Hack Tools web version preview (骇客工具网页版预览图)
+## Hack Tools web version preview (骇客工具网页版预览图)
 <img src="s4.png">
 
-##Hack Tools Link
+## Hack Tools Link
 [Hack Tools For WEB](https://www.huayoubox.com/dbden/)
 
