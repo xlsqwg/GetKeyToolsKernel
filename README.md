@@ -12,6 +12,6 @@ Download Link（下载地址）: <a href="https://github.com/xlsqwg/GetKeyToolsK
 
 
 New Update 2019/09/06
-<img src="blob/master/s1.png">
-<img src="blob/master/s2.png">
-<img src="blob/master/s3.png">
+<img src="s1.png">
+<img src="s2.png">
+<img src="s3.png">
