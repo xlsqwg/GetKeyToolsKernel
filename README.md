@@ -60,7 +60,7 @@ result.destroy()
 
 # Other Code (其他脚本代码) By:AJhome
 
-### LUA Script Code for Blood point (100W血点LUA脚本)
+### LUA Script Code for Blood point (100W血点LUA脚本) （支持版本）Support DBD3.1.2+
 ```lua
 openProcess("DeadByDaylight-Win64-Shipping.exe")
 Tag='FF FF FF FF 01 00 00 00 38 16 27 B4 F6 7F 00 00 00 00 00 00 00 00 00 00 21 00 00 00 40 00 00 00 FF FF FF FF 00 00 00 00'
