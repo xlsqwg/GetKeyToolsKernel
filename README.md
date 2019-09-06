@@ -1,4 +1,4 @@
-# Dead By Daylight 3.1.2+
+# Dead By Daylight 3.1.2+  交流QQ群759672658
 
 DBD3.1.2 is Work (DBD3.1.2正常工作)
 
