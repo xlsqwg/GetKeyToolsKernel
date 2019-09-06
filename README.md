@@ -28,7 +28,7 @@ Dead By Daylight Hacking Group：https://discord.gg/um8jGc2   (我们的Discord�
 
 > ##### Suitable for all future versions (DBD3.1.2+) 适用于未来所有版本
 
-### LUA Script Code for Cheat Engine (Get DBD Key Script) 获取DBD KEY令牌的LUA脚本
+### LUA Script Code for Cheat Engine (Get DBD Key Script) 获取DBD KEY令牌的LUA脚本 By:AJhome
 ```lua
 openProcess("DeadByDaylight-Win64-Shipping.exe")
 --31 34 30 30 30 30 30 30
@@ -58,3 +58,23 @@ result.destroy()
 ## Hack Tools Link
 [Hack Tools For WEB](https://www.huayoubox.com/dbden/)
 
+#Other Code (其他脚本代码) By:AJhome
+
+### LUA Script Code for Blood point (100W血点LUA脚本)
+```lua
+openProcess("DeadByDaylight-Win64-Shipping.exe")
+Tag='FF FF FF FF 01 00 00 00 38 16 27 B4 F6 7F 00 00 00 00 00 00 00 00 00 00 21 00 00 00 40 00 00 00 FF FF FF FF 00 00 00 00'
+result=AOBScan(Tag)
+--print(result,result.Count)
+if result.Count < 1 then
+	  messageDialog("No relevant results were found or the system was not supported. It is recommended to restart the system.", mtError, mbOK)
+else
+	  local op = getAddress(result[0])-0x70
+      --print("HEX："..string.format("%06X",op).."->"..result.Count)
+      writeInteger(op,1000000)
+      --local keyid=readString(op,2000,true)
+      --print('You DBD Key：'..keyid)
+      messageDialog('重置100W血点成功',mtInformation,2)
+end
+result.destroy()
+```
