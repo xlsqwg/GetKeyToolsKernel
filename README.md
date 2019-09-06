@@ -58,7 +58,7 @@ result.destroy()
 ## Hack Tools Link
 [Hack Tools For WEB](https://www.huayoubox.com/dbden/)
 
-#Other Code (其他脚本代码) By:AJhome
+# Other Code (其他脚本代码) By:AJhome
 
 ### LUA Script Code for Blood point (100W血点LUA脚本)
 ```lua
