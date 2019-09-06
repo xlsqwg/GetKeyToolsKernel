@@ -8,7 +8,7 @@ join our Discord server to get the latest news at any time! (你可以加入我�
 
 Dead By Daylight Hacking Group：https://discord.gg/um8jGc2   (我们的Discord服务器)
 
-Download Link（下载地址）: <a href="https://github.com/xlsqwg/GetKeyToolsKernel/releases/download/2.0/GetKeyToolsKernel2.0.zip">DownLoad GetKeyToolsKernel2.0.zip</a>
+~~Download Link（下载地址）: <a href="https://github.com/xlsqwg/GetKeyToolsKernel/releases/download/2.0/GetKeyToolsKernel2.0.zip">~~DownLoad GetKeyToolsKernel2.0.zip~~</a>
 
 
 New Update 2019/09/06
