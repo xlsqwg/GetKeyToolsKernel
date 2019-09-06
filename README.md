@@ -11,6 +11,7 @@ Dead By Daylight Hacking Group：https://discord.gg/um8jGc2   (我们的Discord�
 ~~Download Link（下载地址）: <a href="https://github.com/xlsqwg/GetKeyToolsKernel/releases/download/2.0/GetKeyToolsKernel2.0.zip">DownLoad GetKeyToolsKernel2.0.zip</a>~~ 
 
 >GetKeyToolsKernel2.0 已被检测到，过时，请不要使用! 请看下面最新方法
+
 >GetKeyToolsKernel2.0 Has been detected, outdated, please do not use! Please see the latest method below
 
 # New Update 2019/09/06 Get Key Method of Safe （新更新：获取KEY的安全方法）
@@ -25,7 +26,7 @@ Dead By Daylight Hacking Group：https://discord.gg/um8jGc2   (我们的Discord�
 
 ### Notice (提醒)
 
->#####Suitable for all future versions (DBD3.1.2+) 适用于未来所有版本
+> ##### Suitable for all future versions (DBD3.1.2+) 适用于未来所有版本
 
 ### LUA Script Code for Cheat Engine (Get DBD Key Script) 获取DBD KEY令牌的LUA脚本
 ```lua
